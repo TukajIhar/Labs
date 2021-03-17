@@ -1,0 +1,7 @@
+C:\Users\г\source\repos\Lab2.Matrix\obj\Debug\Lab2.Matrix.csprojAssemblyReference.cache
+C:\Users\г\source\repos\Lab2.Matrix\obj\Debug\Lab2.Matrix.csproj.CoreCompileInputs.cache
+C:\Users\г\source\repos\Lab2.Matrix\bin\Debug\Lab2.Matrix.exe.config
+C:\Users\г\source\repos\Lab2.Matrix\bin\Debug\Lab2.Matrix.exe
+C:\Users\г\source\repos\Lab2.Matrix\bin\Debug\Lab2.Matrix.pdb
+C:\Users\г\source\repos\Lab2.Matrix\obj\Debug\Lab2.Matrix.exe
+C:\Users\г\source\repos\Lab2.Matrix\obj\Debug\Lab2.Matrix.pdb
