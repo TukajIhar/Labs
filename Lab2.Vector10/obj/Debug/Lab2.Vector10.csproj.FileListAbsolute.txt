@@ -1,0 +1,7 @@
+C:\Users\г\source\repos\Lab2.Vector10\obj\Debug\Lab2.Vector10.csprojAssemblyReference.cache
+C:\Users\г\source\repos\Lab2.Vector10\obj\Debug\Lab2.Vector10.csproj.CoreCompileInputs.cache
+C:\Users\г\source\repos\Lab2.Vector10\bin\Debug\Lab2.Vector10.exe.config
+C:\Users\г\source\repos\Lab2.Vector10\bin\Debug\Lab2.Vector10.exe
+C:\Users\г\source\repos\Lab2.Vector10\bin\Debug\Lab2.Vector10.pdb
+C:\Users\г\source\repos\Lab2.Vector10\obj\Debug\Lab2.Vector10.exe
+C:\Users\г\source\repos\Lab2.Vector10\obj\Debug\Lab2.Vector10.pdb
